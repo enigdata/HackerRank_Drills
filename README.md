@@ -1,2 +1,2 @@
-# HackerRank_Drills
-Challenge and Solutions to Power Drills
+# HackerRank Drills
+Solutions to challenges from HackerRank power drills.
