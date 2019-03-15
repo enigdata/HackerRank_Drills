@@ -5,5 +5,4 @@ Written in Python.
 
 Algorithms
 --------------
-
-
+- [X] Two Sums
