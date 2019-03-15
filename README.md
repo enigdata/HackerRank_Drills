@@ -5,9 +5,9 @@ Written in Python.
 
 Algorithms
 --------------
-- [Array]()
-- [String]()
-- Linked List
+- [Array](https://github.com/enigdata/coding-drills#Array)
+- [String](https://github.com/enigdata/coding-drills#String)
+- [Linked List](https://github.com/enigdata/coding-drills#Linked-list)
 - Stack
 - Queue
 - Tree
@@ -16,3 +16,9 @@ Algorithms
 - Sort
 - Recursion
 - Binary Search
+
+## Array
+
+## String
+
+## Linked List
