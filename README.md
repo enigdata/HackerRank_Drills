@@ -32,45 +32,93 @@ Database
 |  Problem with Solution       |  Time           | Space           | Difficulty    |  
 | --------------- | --------------- | --------------- | ------------- |
 | [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
-| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
-| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
-| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
-| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
-| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
-
 
 ## String
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Linked List
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Stack
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Queue
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Tree
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Hash Table
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Two Pointers
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Sort
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Recursion
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Binary Search
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Bit Manipulation
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Math
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Simulation
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Graph
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Dynamic Programming
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Breadth-First Search
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Depth-First Search
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## SQL
+|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+| --------------- | --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
