@@ -1,2 +1,5 @@
 ## Coding Drills
-Solutions to challenges from HackerRank power drills.
+Solutions to programming challenges from LeetCode and HackerRank.
+
+### LeetCode
+
