@@ -5,8 +5,8 @@ Written in Python.
 
 Algorithms
 --------------
-- Array
-- String
+- [Array]()
+- [String]()
 - Linked List
 - Stack
 - Queue
