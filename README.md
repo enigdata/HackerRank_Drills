@@ -30,8 +30,8 @@ Database
 
 ## Array
 |  Problem with Solution       |  Time           | Difficulty    |  
-| --------------- | --------------- | --------------- | ------------- |
-| [Two Sums](https://github.com/enigdata/coding-drills/blob/master/Array/two_sum.py) | _O(n)_       | Easy         |||
+| --------------- | --------------- | ------------- |
+| [Two Sums](https://github.com/enigdata/coding-drills/blob/master/Array/two_sum.py) | _O(1)_       | Easy         |||
 
 ## String
 |  Problem with Solution       |  Time           | Space           | Difficulty    |  
