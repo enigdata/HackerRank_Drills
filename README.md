@@ -29,9 +29,9 @@ Database
 - [SQL](https://github.com/enigdata/coding-drills#sql)
 
 ## Array
-|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+|  Problem with Solution       |  Time           | Difficulty    |  
 | --------------- | --------------- | --------------- | ------------- |
-| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
+| [Two Sums](https://github.com/enigdata/coding-drills/blob/master/Array/two_sum.py) | _O(n)_       | Easy         |||
 
 ## String
 |  Problem with Solution       |  Time           | Space           | Difficulty    |  
