@@ -31,7 +31,31 @@ Database
 ## Array
 |  Problem with Solution       |  Time           | Difficulty    |  
 | --------------- | --------------- | ------------- |
-| [Two Sums](https://github.com/enigdata/coding-drills/blob/master/Array/two_sum.py) | _O(1)_       | Easy         |||
+| [Two Sum](https://github.com/enigdata/coding-drills/blob/master/Array/two_sum.py) | _O(1)_       | Easy         |||
+| [Three Sum]() | _O()_       | Medium         |||
+| [Remove Duplicate from Sorted Array]() | _O()_       | Easy      |||
+| [Next Permutation]() | _O()_       |          |||
+| [First Missing Positive]() | _O()_       |          |||
+| [Rotate Image]() | _O()_       |          |||
+| [Spiral Matrix]() | _O()_       |          |||
+| [Plus One]() | _O()_       |          |||
+| [Set Matrix Zeroes]() | _O()_       |          |||
+| [Best Time to Buy and Sell Stock]() | _O()_       |          |||
+| [Majority Element]() | _O()_       |          |||
+| [Rotate Array]() | _O()_       |          |||
+| [Majority Element]() | _O()_       |          |||
+| [Summary Ranges]() | _O()_       |          |||
+| [Shortest Word Distance]() | _O()_       |          |||
+| [Flatten 2D Vector]() | _O()_       |          |||
+| [Sparse Matrix Multiplication]() | _O()_       |          |||
+| [Shuffle an Array]() | _O()_       |          |||
+| [Rotate Function]() | _O()_       |          |||
+| [Find All Duplicates in an Array]() | _O()_       |          |||
+| [Array Nesting]() | _O()_       |          |||
+| [Reshape the Matrix]() | _O()_       |          |||
+| [Shortest Distance to a Character]() | _O()_       |          |||
+| [Partition Array Into Three Parts With Equal Sum]() | _O()_       |          |||
+
 
 ## String
 |  Problem with Solution       |  Time           | Space           | Difficulty    |  
