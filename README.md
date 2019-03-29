@@ -98,11 +98,6 @@ Database
 | --------------- | --------------- | --------------- | ------------- |
 | [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
-## Binary Search
-|  Problem with Solution       |  Time           | Space           | Difficulty    |  
-| --------------- | --------------- | --------------- | ------------- |
-| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
-
 ## Math
 |  Problem with Solution       |  Time           | Space           | Difficulty    |  
 | --------------- | --------------- | --------------- | ------------- |
