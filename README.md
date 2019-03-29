@@ -15,14 +15,10 @@ Algorithms
 - [Two Pointers](https://github.com/enigdata/coding-drills#two-pointers)
 - [Sort](https://github.com/enigdata/coding-drills#sort)
 - [Recursion](https://github.com/enigdata/coding-drills#recursion)
-- [Binary Search](https://github.com/enigdata/coding-drills#binary-search)
-- [Bit Manipulation](https://github.com/enigdata/coding-drills#bit-manipulation)
 - [Math](https://github.com/enigdata/coding-drills#math)
 - [Simulation](https://github.com/enigdata/coding-drills#simulation)
 - [Graph](https://github.com/enigdata/coding-drills#graph)
 - [Dynamic Programming](https://github.com/enigdata/coding-drills#dynamic-programming)
-- [Breadth-First Search](https://github.com/enigdata/coding-drills#breadth-first-search)
-- [Depth-First Search](https://github.com/enigdata/coding-drills#depth-first-search)
 
 Database
 --------------
