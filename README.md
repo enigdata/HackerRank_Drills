@@ -103,11 +103,6 @@ Database
 | --------------- | --------------- | --------------- | ------------- |
 | [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
-## Bit Manipulation
-|  Problem with Solution       |  Time           | Space           | Difficulty    |  
-| --------------- | --------------- | --------------- | ------------- |
-| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
-
 ## Math
 |  Problem with Solution       |  Time           | Space           | Difficulty    |  
 | --------------- | --------------- | --------------- | ------------- |
@@ -124,16 +119,6 @@ Database
 | [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
 
 ## Dynamic Programming
-|  Problem with Solution       |  Time           | Space           | Difficulty    |  
-| --------------- | --------------- | --------------- | ------------- |
-| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
-
-## Breadth-First Search
-|  Problem with Solution       |  Time           | Space           | Difficulty    |  
-| --------------- | --------------- | --------------- | ------------- |
-| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
-
-## Depth-First Search
 |  Problem with Solution       |  Time           | Space           | Difficulty    |  
 | --------------- | --------------- | --------------- | ------------- |
 | [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
