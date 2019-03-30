@@ -30,6 +30,7 @@ Database
 | [Two Sum](https://github.com/enigdata/coding-drills/blob/master/Array/two_sum.py) | _O(1)_       | Easy         |||
 | [Three Sum](https://github.com/enigdata/coding-drills/blob/master/Array/three_sum.py) | _O(n^2)_       | Medium         |||
 | [Remove Duplicate from Sorted Array](https://github.com/enigdata/coding-drills/blob/master/Array/remove_duplicates.py) | _O(1)_       | Easy      |||
+| [Permutations]() | _O()_       |          |||
 | [Next Permutation]() | _O()_       |          |||
 | [First Missing Positive]() | _O()_       |          |||
 | [Rotate Image]() | _O()_       |          |||
