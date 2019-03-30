@@ -28,7 +28,7 @@ Database
 |  Problem with Solution       |  Time           | Difficulty    |  
 | --------------- | --------------- | ------------- |
 | [Two Sum](https://github.com/enigdata/coding-drills/blob/master/Array/two_sum.py) | _O(1)_       | Easy         |||
-| [Three Sum]() | _O(n^2)_       | Medium         |||
+| [Three Sum](https://github.com/enigdata/coding-drills/blob/master/Array/three_sum.py) | _O(n^2)_       | Medium         |||
 | [Remove Duplicate from Sorted Array]() | _O()_       | Easy      |||
 | [Next Permutation]() | _O()_       |          |||
 | [First Missing Positive]() | _O()_       |          |||
