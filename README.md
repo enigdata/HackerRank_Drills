@@ -59,24 +59,24 @@ Database
 | [Two Sums]() | _O()_       |Easy         |||
 
 ## Linked List
-|  Problem with Solution       |  Time           | Space           | Difficulty    |  
-| --------------- | --------------- | --------------- | ------------- |
-| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
+|  Problem with Solution       |  Time           | Difficulty    |  
+| --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | Easy         |||
 
 ## Stack
-|  Problem with Solution       |  Time           | Space           | Difficulty    |  
+|  Problem with Solution       |  Time           | Difficulty    |  
 | --------------- | --------------- | --------------- | ------------- |
-| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
+| [Two Sums]() | _O(n)_       | Easy         |||
 
 ## Queue
-|  Problem with Solution       |  Time           | Space           | Difficulty    |  
-| --------------- | --------------- | --------------- | ------------- |
-| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
+|  Problem with Solution       |  Time           | Difficulty    |  
+| --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | Easy         |||
 
 ## Tree
-|  Problem with Solution       |  Time           | Space           | Difficulty    |  
-| --------------- | --------------- | --------------- | ------------- |
-| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
+|  Problem with Solution       |  Time           | Difficulty    |  
+| --------------- | --------------- | ------------- |
+| [Two Sums]() | _O(n)_       | Easy         |||
 
 ## Hash Table
 |  Problem with Solution       |  Time           | Space           | Difficulty    |  
