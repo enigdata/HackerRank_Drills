@@ -54,9 +54,9 @@ Database
 
 
 ## String
-|  Problem with Solution       |  Time           | Space           | Difficulty    |  
-| --------------- | --------------- | --------------- | ------------- |
-| [Two Sums]() | _O(n)_       | _O(1)_          | Easy         |||
+|  Problem with Solution       |  Time           | Difficulty    |  
+| --------------- | --------------- | ------------- |
+| [Two Sums]() | _O()_       |Easy         |||
 
 ## Linked List
 |  Problem with Solution       |  Time           | Space           | Difficulty    |  
