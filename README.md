@@ -56,7 +56,32 @@ Database
 ## String
 |  Problem with Solution       |  Time           | Difficulty    |  
 | --------------- | --------------- | ------------- |
-| [Two Sums]() | _O()_       |Easy         |||
+| [Longest Palindromic Substring]() | _O()_       |Easy         |||
+| [String to Integer (atoi)]() | _O()_       |Easy         |||
+| [Longest Common Prefix]() | _O()_       |Easy         |||
+| [Multiply Strings]() | _O()_       |Easy         |||
+| [Add Binary]() | _O()_       |Easy         |||
+| [Text Justification]() | _O()_       |Easy         |||
+| [One Edit Distance]() | _O()_       |Easy         |||
+| [Encode and Decode Strings]() | _O()_       |Easy         |||
+| [Ransom Note]() | _O()_       |Easy         |||
+| [Strong Password Checker]() | _O()_       |Easy         |||
+| [String Compression]() | _O()_       |Easy         |||
+| [Repeated Substring Pattern]() | _O()_       |Easy         |||
+| [Longest Word in Dictionary through Deleting]() | _O()_       |Easy         |||
+| [Minimum Time Difference]() | _O()_       |Easy         |||
+| [Student Attendance Record I]() | _O()_       |Easy         |||
+| [Replace Words]() | _O()_       |Easy         |||
+| [Short Encoding of Words]() | _O()_       |Easy         |||
+| [Unique Email Addresses]() | _O()_       |Easy         |||
+| [Similar String Groups]() | _O()_       |Easy         |||
+| [Ambiguous Coordinates]() | _O()_       |Easy         |||
+| [Expressive Words]() | _O()_       |Easy         |||
+| [Rotate String]() | _O()_       |Easy         |||
+| [Masking Personal Information]() | _O()_       |Easy         |||
+| [Find And Replace in String]() | _O()_       |Easy         |||
+
+
 
 ## Linked List
 |  Problem with Solution       |  Time           | Difficulty    |  
