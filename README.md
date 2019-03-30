@@ -65,7 +65,7 @@ Database
 
 ## Stack
 |  Problem with Solution       |  Time           | Difficulty    |  
-| --------------- | --------------- | --------------- | ------------- |
+| --------------- | --------------- | ------------- |
 | [Two Sums]() | _O(n)_       | Easy         |||
 
 ## Queue
