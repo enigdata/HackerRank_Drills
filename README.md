@@ -1,5 +1,5 @@
 ## Coding Drills
-Solutions to programming challenges from LeetCode.
+Solutions to programming challenges from LeetCode/LintCode.
 
 Written in Python.
 
