@@ -57,6 +57,7 @@ Database
 ## String
 |  Problem with Solution       |  Time           | Difficulty    |  
 | --------------- | --------------- | ------------- |
+| [Valid Palindrome]() | _O()_       |Easy         |||
 | [Longest Palindromic Substring]() | _O()_       |Easy         |||
 | [String to Integer (atoi)]() | _O()_       |Easy         |||
 | [Longest Common Prefix]() | _O()_       |Easy         |||
