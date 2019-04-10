@@ -60,7 +60,7 @@ Database
 | [Valid Palindrome](https://github.com/enigdata/coding-drills/blob/master/String/palindrome.py) | _O()_       |Easy         |||
 | [strStr()](https://github.com/enigdata/coding-drills/blob/master/String/strStr.py) | _O()_       |Easy         |||
 | [Longest Palindromic Substring](https://github.com/enigdata/coding-drills/blob/master/String/longest_palindromic_substring.py) | _O()_       |Easy         |||
-| [String to Integer (atoi)]() | _O()_       |Easy         |||
+| [Palindrome Pairs](https://github.com/enigdata/coding-drills/blob/master/String/palindrome_paris.py) | _O()_       |Easy         |||
 | [Longest Common Prefix]() | _O()_       |Easy         |||
 | [Multiply Strings]() | _O()_       |Easy         |||
 | [Add Binary]() | _O()_       |Easy         |||
