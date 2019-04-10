@@ -88,6 +88,7 @@ Database
 ## Binary Search
 |  Problem with Solution       |  Time           | Difficulty    |  
 | --------------- | --------------- | ------------- |
+| [First Position of Target]() | _O()_       |Easy         |||
 | [Median of Two Sorted Arrays]() | _O()_       |Easy         |||
 | [Search in Rotated Sorted Array]() | _O()_       |Easy         |||
 | [Search for a Range]() | _O()_       |Easy         |||
