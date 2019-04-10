@@ -7,6 +7,7 @@ Algorithms
 --------------
 - [Array](https://github.com/enigdata/coding-drills#Array)
 - [String](https://github.com/enigdata/coding-drills#String)
+- [Binary Search](https://github.com/enigdata/coding-drills#Binary-search)
 - [Linked List](https://github.com/enigdata/coding-drills#Linked-list)
 - [Stack](https://github.com/enigdata/coding-drills#stack)
 - [Queue](https://github.com/enigdata/coding-drills#queue)
@@ -84,6 +85,21 @@ Database
 | [Masking Personal Information]() | _O()_       |Easy         |||
 | [Find And Replace in String]() | _O()_       |Easy         |||
 
+## Binary Search
+|  Problem with Solution       |  Time           | Difficulty    |  
+| --------------- | --------------- | ------------- |
+| [Median of Two Sorted Arrays]() | _O()_       |Easy         |||
+| [Search in Rotated Sorted Array]() | _O()_       |Easy         |||
+| [Search for a Range]() | _O()_       |Easy         |||
+| [Search Insert Position]() | _O()_       |Easy         |||
+| [Sqrt(x)]() | _O()_       |Easy         |||
+| [Search a 2D Matrix]() | _O()_       |Easy         |||
+| [Find Peak Element]() | _O()_       |Easy         |||
+| [Longest Increasing Subsequence]() | _O()_       |Easy         |||
+| [Guess Number Higher or Lower]() | _O()_       |Easy         |||
+| [Find K Closest Elements]() | _O()_       |Easy         |||
+| [Time Based Key-Value Store]() | _O()_       |Easy         |||
+| [Capacity To Ship Packages Within D Days]() | _O()_       |Easy         |||
 
 
 ## Linked List
