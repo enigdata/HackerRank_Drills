@@ -91,7 +91,7 @@ Database
 | [First Position of Target]() | _O()_       |Easy         |||
 | [Median of Two Sorted Arrays]() | _O()_       |Easy         |||
 | [Search in Rotated Sorted Array]() | _O()_       |Easy         |||
-| [Search for a Range]() | _O()_       |Easy         |||
+| [Search for a Range](https://github.com/enigdata/coding-drills/blob/master/Binary%20Search/search_for_range.py) | _O()_       |Easy         |||
 | [Search Insert Position]() | _O()_       |Easy         |||
 | [Sqrt(x)]() | _O()_       |Easy         |||
 | [Search a 2D Matrix]() | _O()_       |Easy         |||
