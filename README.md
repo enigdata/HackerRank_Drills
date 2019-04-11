@@ -95,7 +95,7 @@ Database
 | [Search Insert Position]() | _O()_       |Easy         |||
 | [Sqrt(x)]() | _O()_       |Easy         |||
 | [Search a 2D Matrix]() | _O()_       |Easy         |||
-| [Find Peak Element]() | _O()_       |Easy         |||
+| [Find Peak Element](https://github.com/enigdata/coding-drills/blob/master/Binary%20Search/find_peak_element.py) | _O()_       |Easy         |||
 | [Longest Increasing Subsequence]() | _O()_       |Easy         |||
 | [Guess Number Higher or Lower]() | _O()_       |Easy         |||
 | [Find K Closest Elements]() | _O()_       |Easy         |||
